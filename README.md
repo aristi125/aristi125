@@ -31,7 +31,7 @@ He trabajado en proyectos universitarios como analista de datos y desarrollador 
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,php,dart,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,java,php,dart,py,dotnet,css,html,js,nodejs,mysql,mongodb,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,idea,bash,linux" />
   </a>
 </p>
 <br>
