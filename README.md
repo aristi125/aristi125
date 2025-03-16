@@ -2,6 +2,8 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/michael" target="blank"><img align="center" src="https://www.linkedin.com/in/michael-aristizabal-molina-5112a7259/" alt="linkedin"/></a>
+<a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+  
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
