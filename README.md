@@ -1,8 +1,7 @@
 <h1 align="center">Hola 👋  soy Michael  ✨ </h1> 
 
 <p align="left">
-<a href="https://linkedin.com/in/michael" target="blank"><img align="center" src="https://www.linkedin.com/in/michael-aristizabal-molina-5112a7259/" alt="linkedin"/></a>
-<a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+<a href="[https://linkedin.com/in/aristi125](https://www.linkedin.com/in/michael-aristizabal-molina-5112a7259/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aristi125"/></a>
   
   </p>
 <br>
