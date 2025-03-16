@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋  soy Michael  ✨ </h1> 
 
 <p align="left">
-<a href="https://linkedin.com/in/michael" target="blank"><img align="center" src="https://www.linkedin.com/in/michael-aristizabal-molina-5112a7259/" alt="aristi125"/></a>
+<a href="https://linkedin.com/in/michael" target="blank"><img align="center" src="https://www.linkedin.com/in/michael-aristizabal-molina-5112a7259/" alt="linkedin"/></a>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
